@@ -30,6 +30,7 @@ public class App {
 
         game.firstCompetitor = car1;
         game.secondCompetitor = car2;
+
     }
 
 }
