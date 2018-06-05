@@ -25,6 +25,7 @@ public class Vehicle {
         return traveledDistance;
     }
 
+
     public double getFuelLevel() {
         return fuelLevel;
     }
