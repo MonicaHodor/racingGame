@@ -31,6 +31,7 @@ public class Truck extends AutoVehicle {
     public double accelerate(double speed, double time) {
         return super.accelerate(speed*2, time);
     }
+
 }
 
 

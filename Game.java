@@ -12,7 +12,7 @@
      car1.setColor("red");
      car1.setDoorCount(3);
      car1.setMileage(7.5);
-     car1.setDoorCount(50);
+     car1.setFuelLevel(50);
      Engine engine1 = new Engine();
      engine1.setManufacturer("Renault");
 
@@ -45,7 +45,13 @@
 
      car1.accelerate(7.2,  6.9);
  }
+
      }
+
+
+
+
+
 
 
 
