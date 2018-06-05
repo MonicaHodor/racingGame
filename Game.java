@@ -33,7 +33,7 @@
      truck.setColor("white");
      truck.setDoorCount(2);
      truck.setMileage(9);
-     truck.setFuelLevel(5);
+     truck.setFuelLevel(65);
 
      Engine engineTruck = new Engine();
      engineTruck.setManufacturer("Volvo");

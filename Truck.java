@@ -24,10 +24,8 @@ public class Truck extends AutoVehicle {
     public Truck(String name) {
         super(name);
     }
-    public double accelerate(double speed) {
-        return accelerate(speed, 60);
 
-    }
+
 
     @Override
     public double accelerate(double speed, double time) {
