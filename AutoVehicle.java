@@ -17,4 +17,9 @@ public class AutoVehicle extends Vehicle {
         super(name);
 
     }
+
+    public AutoVehicle(String name, Engine engine) {
+        super(name);
+        this.engine = engine;}
+
 }
